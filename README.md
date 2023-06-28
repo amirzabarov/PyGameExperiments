@@ -1,4 +1,4 @@
-# Controls
+## Controls
 Draw cells — left mouse button
 
 Erase cells — lefts mouse button + space
